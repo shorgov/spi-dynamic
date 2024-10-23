@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "SPI",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
